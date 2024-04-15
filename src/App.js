@@ -17,7 +17,7 @@ function App() {
     <Router>
       <Navigation openChatbot={openChatbot} />
       <Routes>
-        <Route path="/reactweb" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         {/* Pass props to the Chatbot component */}
         <Route path="/chatbot" element={<Chatbot showChatbot={showChatbot} setShowChatbot={setShowChatbot} />} />
