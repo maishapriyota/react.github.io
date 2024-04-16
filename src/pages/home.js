@@ -44,7 +44,7 @@ class Home extends React.Component {
               <div><img className="icon" id="icon" src={sparkPhoto} alt='spark' /></div>
             </div>
             <div className="overflow-hidden">
-              <p className="drop-in-2"> I am passionate about front and back-end development with my artistic mind.
+              <p className="drop-in-2"> Passionate front-end developer with a flair for creativity and a commitment to continuous learning, shaping digital experiences one line of code at a time.
               </p>
             </div>
           </div>
