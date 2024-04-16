@@ -40,7 +40,7 @@ class Home extends React.Component {
 
           <div className="container">
             <div className="overflow-hidden">
-              <h1 className="drop-in-2"> Hi. I'm Maisha. <br /> A Designer. </h1>
+              <h1 className="drop-in-2"> Hi. I am <br /> Maisha.  </h1>
               <div><img className="icon" id="icon" src={sparkPhoto} alt='spark' /></div>
             </div>
             <div className="overflow-hidden">
